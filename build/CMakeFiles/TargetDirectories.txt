@@ -1,0 +1,3 @@
+/mnt/d/Documentos/sgbd/build/CMakeFiles/BPlusIndex.dir
+/mnt/d/Documentos/sgbd/build/CMakeFiles/edit_cache.dir
+/mnt/d/Documentos/sgbd/build/CMakeFiles/rebuild_cache.dir
