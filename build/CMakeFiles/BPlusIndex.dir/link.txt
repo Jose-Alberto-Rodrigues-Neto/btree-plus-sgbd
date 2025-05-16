@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/BPlusIndex.dir/main.cpp.o CMakeFiles/BPlusIndex.dir/BPlusTree.cpp.o CMakeFiles/BPlusIndex.dir/StorageManager.cpp.o -o BPlusIndex 
